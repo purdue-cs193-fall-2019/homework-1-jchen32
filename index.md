@@ -1,4 +1,6 @@
 # Joseph Chen's First CS193 Homework
+- Not a lot of lectures so not as time consuming.
+- Helps me adapt to freshman year.
 
 ## Welcome to GitHub Pages
 
